@@ -9,6 +9,8 @@
 I have got banned from IB (https://github.com/stoqey/ib/discussions/137) and have no more need for this project, therefore it has been aborted. \
 **There won't be any more updates, if you use it currently, fork it and continue maintance on your own**
 
+Checkout https://github.com/UnusualAlpha/ib-gateway-docker for an updated version.
+
 -----------------------------------------------------
 
 ## What is it?
